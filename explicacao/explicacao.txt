@@ -1,0 +1,15 @@
+LINGUAGEM DE PROGRAMAÇÃO
+
+Python - Criar API's
+NodeJS
+R
+Java
+Golang
+PHP
+Ruby
+Kotlin
+
+--------------------
+Bibliotecas --> Python pip install
+API Externa
+
